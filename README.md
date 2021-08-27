@@ -7,7 +7,7 @@ There are four python files:
 	4) featureSelection.py
 	5) svm.py
 
-There is 1 text file explaining dataset:
+There is one text file explaining dataset:
 	1) SPECTF.names.txt
 
 There are two files containing train and test dataset:
